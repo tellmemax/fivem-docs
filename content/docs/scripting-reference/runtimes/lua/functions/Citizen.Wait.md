@@ -17,4 +17,6 @@ Citizen.Wait(int milliseconds)
 Examples
 --------
 
-TODO
+```lua
+Citizen.Wait(60000) # wait 1 minute
+```
